@@ -1,0 +1,19 @@
+[
+  {
+    "code": "relisback24",
+    "startDate": "2024-08-06T09:02Z",
+    "endDate": "2024-08-20T09:02Z",
+    "rewards": [
+      {
+        "type": "item",
+        "id": 195,
+        "amount": 5
+      },
+      {
+        "type": "armor",
+        "id": 29,
+        "amount": 1
+      }
+    ]
+  }
+]
