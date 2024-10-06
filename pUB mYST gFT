@@ -1,0 +1,14 @@
+[
+  {
+    "code": "RELISBACK21",
+    "startDate": "2024-10-06T19:19Z",
+    "endDate": "2025-11-12T19:19Z",
+    "rewards": [
+      {
+        "type": "armor",
+        "id": 53,
+        "amount": 1
+      }
+    ]
+  }
+]
